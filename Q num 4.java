@@ -3,7 +3,7 @@ temperature values and print the month with the highest temperature.*/
 
 import java.util.Scanner;
 
-public class P4_04 {
+public class q_04 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double highestTemperature = input.nextDouble();
